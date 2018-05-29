@@ -1,0 +1,11 @@
+{
+  "name": "soumen_pkg",
+  "version": "1.0.0",
+  "description": "Soumen Package Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Soumen Karmakar",
+  "license": "ISC"
+}
